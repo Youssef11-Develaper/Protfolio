@@ -1211,6 +1211,14 @@ section {
 		font-size: 1.75rem;
 	}
 
+	.about-content,.contact-content{
+		display: block;
+	}
+
+	.about-text,.contact-info{
+		margin-bottom: 2rem;
+	}
+	
 	.btn {
 		padding: 0.875rem 1.5rem;
 		font-size: 0.875rem;
